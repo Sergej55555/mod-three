@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Hi there, I'm [Sergej]!
+
+### I'm a web developer from Russia. I like to play football. I also love hockey. Favorite team Montreal Canadiens and Canadian national hockey team.
+
+## This application can only be used for student purposes.
+
+## Description of my Project
+
+- In this application we track the press of the Enter button.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +78,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Acknowledgements
+
+- [How to write a Good readme](https://medium.com/nuances-of-programming/как-написать-впечатляющий-readme-файл-для-проекта-de558e8b110d)
+
+## If our project does not run on your device, please contact us. Describe the problem in detail and attach a screenshot.
+
+## You can use my application for educational purposes.
+
+## If you have any feedback, please reach out to me at sergejsergej1981@mail.ru
